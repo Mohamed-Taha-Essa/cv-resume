@@ -63,8 +63,10 @@ hr{
     font-size: 15px;
     height: 40px;
     line-height: 40px;
-    padding: 0 20px;
+    padding: 0 10px;
     background-color: #3deaa4;
+    max-width: 120px;
+
 }
 .default-btn:hover{
     color:green ;
@@ -84,4 +86,11 @@ hr{
     border-top: 5px solid;
     color: #3deaa4;
     max-width: 90px;
+}
+.skill-line{
+    border-top: 6px solid;
+    color: #3deaa4;
+    background-color: #3deaa4;
+    max-width: 99%;
+    margin-top: 2px;
 }
